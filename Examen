@@ -1,0 +1,13 @@
+def perro_robot():
+  print(*El costo del primer prodcuto es 1400.99* )
+  print(*El contro del segundo producto es 3000.50")
+  print(* ")
+  a =( int(1400.99)+3000.50)
+  print( "Tu precio total es
+", a )
+  z =(int (a)+20/100)
+  print( "El costo final con el cupon aplicado es", z)
+  c =(float(z)*8.38)
+  print(* Tu precio en yenes es", c)
+  
+perro_robot()
